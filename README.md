@@ -6,4 +6,3 @@ Welcome to the Car rental API project. This project provides a comprehensive sys
 
 The API documentation is available at [http://localhost:8080/swagger-ui-custom.html](http://localhost:8080/swagger-ui-custom.html). You can use this documentation to find out more about the available endpoints, their parameters, and responses.
 
-Please make sure the application is running before trying to access the Swagger UI documentation.
